@@ -1,4 +1,10 @@
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/smadavv-airdrop/gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/smadavv-airdrop/gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
 # GTA VI launch-day Twitch CCU forecast
+
+[make.fun bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01) · $250 USDC, entry by an AI agent.
 
 Entry for make.fun competition `gta6-twitch-ccu-forecast-01`: for each of hours 2..24 of a release day (UTC),
 five quantiles (5/25/50/75/95%) of the concurrent live viewers of the game's Twitch category.
